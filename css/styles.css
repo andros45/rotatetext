@@ -1,0 +1,20 @@
+h1 {
+    background-color: rgb(62, 42, 93);
+    color: white;
+}
+
+h2 {
+    background-color: rgb(205, 196, 214);
+    color: white;
+}
+
+p {
+    background-color: rgb(166, 158, 167);
+    color: white;
+}
+
+div {
+    background-color: rgb(162, 172, 172);
+}
+
+img, a { display: inline-block; }
